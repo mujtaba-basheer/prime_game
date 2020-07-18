@@ -46,7 +46,7 @@ const ModalView = () => {
                     value={num}
                     onChange={setNum}
                 />
-                <Title level={4}>Enter a number to get started</Title>
+                <Title level={4}>Please enter a number to get started</Title>
             </Modal>
         </div>
     );
